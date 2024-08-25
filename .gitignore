@@ -9,12 +9,13 @@
 /config
 /public
 /route
-/thinkphp
 /vendor
 /runtime
 *.log
 .env
 .DS_Store
-think.php
+
+
+
 
 
